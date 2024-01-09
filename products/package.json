@@ -17,5 +17,8 @@
     "webpack": "^5.88.0",
     "webpack-cli": "4.10.0",
     "webpack-dev-server": "4.7.4"
+  },
+  "devDependencies": {
+    "@types/webpack": "^5.28.5"
   }
 }
